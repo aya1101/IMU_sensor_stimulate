@@ -1,0 +1,6 @@
+version: 1.0
+type: demo
+publish: true
+world: worlds/flip.wbt
+controller:
+  name: flip_controller
